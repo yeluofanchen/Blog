@@ -139,3 +139,4 @@ git 可以上传到两个或者多个远程仓库
 
 [廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600/896067008724000)
 
+[命令行入门--海尔波普](https://www.yuque.com/daughter-of-time/labuladongpanda123456/kqhann#kVoPn)
