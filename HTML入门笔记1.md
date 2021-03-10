@@ -1,4 +1,4 @@
-# HTML入门笔记1
+HTML入门笔记1
 
 ## 1. HTML 是谁发明的?
 
@@ -45,7 +45,7 @@ Emmet 感叹号
 - id
 - style
 - tabindex
-- title
+- title 完整的内容,
 
 ## 5. 常用的内容标签有哪些，分别是什么意思
 

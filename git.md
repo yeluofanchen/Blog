@@ -1,4 +1,4 @@
-# 命令行&git
+# 命令行& Git 入门
 
 ## 查
 
@@ -71,7 +71,7 @@ mv 22.md new.md
 mv new.md x/xx/xxx/xxxnew.md
 ```
 
-# Git入门
+# Git 入门
 
 ```shell
 # 本地仓库
