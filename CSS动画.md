@@ -67,7 +67,7 @@ https://csstriggers.com/
 
 以上总结自Google 官方文章:
 
-[渲染树构建、布局及绘制](https://static.xiedaimala.com/xdml/file/3ac7c224-c23d-491f-84b5-4fabfbeab9b8/2019-9-6-14-27-31.pdf)
+[渲染树构建、布局及绘制](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction)
 
 [渲染性能](https://developers.google.com/web/fundamentals/performance/rendering/)
 
@@ -76,6 +76,8 @@ https://csstriggers.com/
 
 
 ## CSS 动画的两种做法（transition 和 animation)
+
+
 
 用transform+ transition + hover
 
