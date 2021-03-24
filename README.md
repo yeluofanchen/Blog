@@ -34,6 +34,14 @@ CSS布局和定位
 
 [初识 HTTP(上)](https://github.com/yeluofanchen/blog-test/blob/main/%E5%88%9D%E8%AF%86%20HTTP(%E4%B8%8A).md)    ----2021年03月18日
 
+### Javascript
+
+[JavaScrip 的诞生](https://github.com/yeluofanchen/blog-test/blob/main/JavaScrip%20%E7%9A%84%E8%AF%9E%E7%94%9F.md)    ----2021年03月20日
+
+[JS 基本语法](https://github.com/yeluofanchen/blog-test/blob/main/JS%20%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.md)    ----2021年03月24日
+
+
+
 
 
 
