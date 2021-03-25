@@ -1,2 +1,24 @@
+# Mac OS
 .DS_Store
-find找同学的关键词.md
+
+# .idea
+# .project
+# .codesandbox
+
+# npm
+# node_modules
+# npm-debug.log
+# yarn-error.log
+# yarn.lock
+# package-lock.json
+# .yo-rc.json
+# .npmrc
+
+# folder
+# build
+# dist
+# coverage
+
+# cache
+# .cache
+# *.bak
